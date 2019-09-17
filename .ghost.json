@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "2bd0ec6cc535999102ef8a8e26"
+    "apiUrl": "https://ghost.hatchster.com",
+    "contentApiKey": "3a5cfd4343aa05d78889329680"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "2bd0ec6cc535999102ef8a8e26"
+    "apiUrl": "https://ghost.hatchster.com",
+    "contentApiKey": "3a5cfd4343aa05d78889329680"
   }
 }
